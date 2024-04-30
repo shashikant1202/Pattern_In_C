@@ -12,7 +12,7 @@ int main(){
     {
         printf("*");
     }
-    printf("\n"); //hsr line ke baad ek enter marne ke loye hai
+    printf("\n"); //har line ke baad ek enter marne ke liye hai
     }
     return 0;
 }
